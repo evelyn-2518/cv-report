@@ -13,3 +13,6 @@ Liu, Ziwei, Luo, Ping, Qiu, Shi, Wang, Xiaogang, Tang, Xiaoou. *DeepFashion: Pow
 You can find the notebook where this dataset is used [here](#).
 
 **License info:** [DeepFashion License](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/DeepFashionAgreement.pdf)
+
+# 資料前處理
+[切分後資料](https://www.kaggle.com/code/suchiwen/cvreport/output)
