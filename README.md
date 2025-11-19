@@ -16,3 +16,6 @@ You can find the notebook where this dataset is used [here](#).
 
 # 資料前處理
 [切分後資料](https://www.kaggle.com/code/suchiwen/cvreport/output)
+
+# model
+[pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/ER3LFtP-o-pDm25DOOBwS6IBvokjXQZIyXBSd9aB2Du8XA?e=Eu3M4W)
