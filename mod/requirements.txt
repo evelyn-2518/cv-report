@@ -1,0 +1,11 @@
+numpy
+pandas
+tqdm
+Pillow
+torchvision
+scikit-learn
+faiss-cpu
+opencv-python
+matplotlib
+PyYAML
+einops
