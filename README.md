@@ -18,9 +18,11 @@ You can find the notebook where this dataset is used [here](#).
 [切分後資料](https://www.kaggle.com/code/suchiwen/cvreport/output)
 
 # model
-[pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/ER3LFtP-o-pDm25DOOBwS6IBvokjXQZIyXBSd9aB2Du8XA?e=Eu3M4W)
+[pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/ER3LFtP-o-pDm25DOOBwS6IBvokjXQZIyXBSd9aB2Du8XA?e=Eu3M4W)<br>
 [advanced](https://drive.google.com/file/d/1Krbx2FEd3dFD8tpKgR2dBX-PlXkgcTok/view?usp=sharing)
 
 
 # faiss.index
 [faiss_deepfashion_retrieval_pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDDv7o_rILdRZKIidSZZ6WgAbq7fouLnlqmLzRsz9bgZDo?e=w1zQp2)
+[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQCvlkvox2ITRbAyJnkeN_ZWAad4nQ9iTUtELKHRLD0gcN4?e=TTw6Ab)
+
