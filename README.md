@@ -24,5 +24,8 @@ You can find the notebook where this dataset is used [here](#).
 
 # faiss.index
 [faiss_deepfashion_retrieval_pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDDv7o_rILdRZKIidSZZ6WgAbq7fouLnlqmLzRsz9bgZDo?e=w1zQp2)<br>
-[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQCvlkvox2ITRbAyJnkeN_ZWAad4nQ9iTUtELKHRLD0gcN4?e=TTw6Ab)
+[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDwztyLocY3SYY8ONYO3kBYAS7aadl_9FGyUeRNikdkNBc?e=fucdIf)<br>
+
+# 特徵向量文件名
+[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQC7v5QjOzpWTophOeke5PKsAdbPQ4k947YE1zhHfZqa0Tw?e=df4mKO)
 
