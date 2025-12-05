@@ -21,11 +21,10 @@ You can find the notebook where this dataset is used [here](#).
 [pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/ER3LFtP-o-pDm25DOOBwS6IBvokjXQZIyXBSd9aB2Du8XA?e=Eu3M4W)<br>
 [advanced](https://drive.google.com/file/d/1Krbx2FEd3dFD8tpKgR2dBX-PlXkgcTok/view?usp=sharing)
 
-
-# faiss.index
+# FAISS 索引
 [faiss_deepfashion_retrieval_pro-50](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDDv7o_rILdRZKIidSZZ6WgAbq7fouLnlqmLzRsz9bgZDo?e=w1zQp2)<br>
-[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDwztyLocY3SYY8ONYO3kBYAS7aadl_9FGyUeRNikdkNBc?e=fucdIf)<br>
+[faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQDwztyLocY3SYY8ONYO3kBYAS7aadl_9FGyUeRNikdkNBc?e=fucdIf)
 
-# 特徵向量文件名
+# 特徵向量文件
 [faiss_deepfashion_retrieval_advanced](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/b1228022_cgu_edu_tw/IQC7v5QjOzpWTophOeke5PKsAdbPQ4k947YE1zhHfZqa0Tw?e=df4mKO)
 
