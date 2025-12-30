@@ -3,7 +3,6 @@
 
 這是一個基於 **PyTorch** 與 **FAISS** 建構的服飾以圖搜圖系統。我們實作了 Baseline (ResNet50) 與 Advanced (Metric Learning) 兩種模型，並透過 Gradio 建立互動式介面。
 
----
 ## About Dataset
 取用kaggle上經過處裡的[adjusted版本](https://www.kaggle.com/datasets/hserdaraltan/deepfashion-inshop-clothes-retrieval-adjusted)
 
