@@ -52,7 +52,7 @@ You can find the notebook where this dataset is used [here](#).
 
 ### 1. 環境安裝
 ```bash
-pip install torch torchvision numpy pandas pillow faiss-gpu gradio
+pip install torch torchvision numpy pandas pillow faiss-cpu gradio
 ```
 ### 2. 啟動 Web UI Demo
 確保您已下載上述 Model 與 FAISS Index 檔案，接著執行：
